@@ -11,6 +11,7 @@ body {
     background-attachment: fixed;
     font-family: Arial, Helvetica, sans-serif;
 }
+
  /* Barra de navegação */
 nav.navbar-transparent {
     background: rgba(0,0,0,0.6);
@@ -69,6 +70,9 @@ h1 {
     color: #941ed8;;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 4%;
+}
 /* Sections */
 
 .text-whiteblue {
